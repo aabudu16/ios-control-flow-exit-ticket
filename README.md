@@ -70,4 +70,4 @@ if isOverADozen {
 - It will print "You have more than 12! √
 - It will print "You have less than 12!
 - It will not compile because numberOfBagels should be a constant
-- It will not compile because isOverADozen should be a variable
+- It will not compile because isOverADozen should be a variable 
